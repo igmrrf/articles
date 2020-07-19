@@ -149,23 +149,23 @@ Install xclip and copy the contents
 
 ## Navigate to Settings
 
-![Settings Page](./img/Settings.png)
+![Settings Page](./assets/img/Settings.png)
 
 ## Select SSH and GPG keys
 
-![Settings Page](./img/sshandgpg.png)
+![Settings Page](./assets/img/sshandgpg.png)
 
 ## Click New SSH keys
 
-![Settings Page](./img/addkey.png)
+![Settings Page](./assets/img/addkey.png)
 
 ## In the Title field, add a descriptive label for the new key
 
-![Settings Page](./img/title.png)
+![Settings Page](./assets/img/title.png)
 
 ## Finally paste your key into the Key Field and click add
 
-![Settings Page](./img/keyandsave.png)
+![Settings Page](./assets/img/keyandsave.png)
 
 ### Now you can go back to your terminal and clone, push, pull and run every other Git command without having to repeatedly input your GITHUB details
 
